@@ -12,7 +12,7 @@ import com.caiusf.shakengenerate.BuildConfig;
 import com.caiusf.shakengenerate.R;
 
 /**
- * Created by caius.florea on 02-Jan-17.
+ * Created by caius.florea on 03-Jan-17.
  */
 
 public class AboutActivity extends AppCompatActivity {
