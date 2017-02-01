@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shake N\' Generate</string>
+    <string name="about">Über</string>
+    <string name="action_info">Info</string>
+    <string name="action_more">Mehr</string>
+    <string name="and">und</string>
+    <string name="atLeastOneElement">Liste muss mindestens 1 Element enthalten</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="contact">Kontakt: caiusf94@yahoo.com</string>
+    <string name="copyright">Copyright © 2017 Shake N\' Generate</string>
+    <string name="developer">Entwickler: Caius Florea</string>
+    <string name="dontRepeat">Zahlen nicht wiederholen</string>
+    <string name="en">Englisch</string>
+    <string name="enterNumber">Bitte eine Zahl eingeben</string>
+    <string name="generateBetween">Erzeuge eine Zufallszahl zwischen</string>
+    <string name="generateMoreNumbersMessage">Wie viele Zufallszahlen möchten Sie erzeugen?</string>
+    <string name="generateMoreNumbersTitle">Liste von Zufallszahlen</string>
+    <string name="generateNumber">Zufallszahl erzeugen</string>
+    <string name="infoText">Schütteln Sie Ihr Gerät oder drücken Sie die Taste, um eine Zufallszahl innerhalb des gewünschten Bereichs zu erzeugen.</string>
+    <string name="invalidNumber">Ungültige Nummer</string>
+    <string name="language">Sprache ändern</string>
+    <string name="listInfoText">Klicken und halten Sie eine Zahl, um sie mit einer anderen Zufallszahl innerhalb des Bereichs zu ersetzen.\n\nSchütteln Sie Ihr Gerät, um eine Liste von Zufallszahlen im gewünschten Bereich zu erzeugen.
+    </string>
+    <string name="listTooLarge">Maximale Listengröße: 999</string>
+    <string name="max">max</string>
+    <string name="min">min</string>
+    <string name="nbTooLarge">Nummer zu groß. Maximalwert: 9 999 999</string>
+    <string name="nbTooSmall">Nummer zu klein. Maximalwert: 9 999 999</string>
+    <string name="ok">OK</string>
+    <string name="outOfBounds">Anzahl außerhalb der Grenzen</string>
+    <string name="ro">Rumänisch</string>
+    <string name="selectLanguage">Wählen Sie die Sprache</string>
+    <string name="shakeAgain">Noch einmal schütteln, um eine andere Zahl zu erzeugen!</string>
+    <string name="shakeDevice">Schütteln Sie Ihr Gerät!</string>
+    <string name="shakeToGenerateOtherList">Schütteln Sie Ihr Gerät, um eine Liste mit anderen Zahlen zu erzeugen</string>
+    <string name="specifyRange">Bitte geben Sie den Bereich an</string>
+    <string name="version">App-Version:</string>
+    <string name="visitFBprofile">Besuchen Sie mein Facebook-Profil!</string>
+    <string name="de">Deutsch</string>
+    <string name="uniqueNumbersBetween">verschiedene Zahlen zwischen</string>
+    <string name="generatedMultiple">Es wurden</string>
+    <string name="generatedOne">Es wurde</string>
+    <string name="numberBetween">Zahl zwischen</string>
+    <string name="numbersBetween">Zahlen zwischen</string>
+    <string name="uniqueNumberBetween">verschiedene Zahl zwischen</string>
+    <string name="lastVerb">erzeugt</string>
+    <string name="fr">Französisch</string>
+    <string name="fullList">Die Nummer kann nicht ersetzt werden. Alle verschiedenen Zahlen wurden erzeugt.</string>
+    <string name="onlyMultiple">Es gibt nur</string>
+    <string name="onlyOne">Es gibt nur</string>
+</resources>
